@@ -6,10 +6,10 @@ It isn't possible to overcharge a laptop battery. Leaving your computer plugged 
 To avoid both of these scenarios, I wanted to install an application to display the battery level warnings in the GUI.
 
 Prerequisites:
-  -acpi
+  <br>-acpi</br>
   -yad
 
 Download the zip file and extract to /opt
-Add the batteryWarning.sh script to the startup Applications. (Customcommand)
+Add the batteryWarning.sh script to the startup Applications. (Custom command)
 
 Now you will get the warning for every 30 sec on Full charge and battery level lower than 20%
